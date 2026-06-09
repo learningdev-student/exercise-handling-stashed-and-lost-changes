@@ -1,1 +1,3 @@
 Modify feature B txt
+
+Adding changes in file related to feature B
