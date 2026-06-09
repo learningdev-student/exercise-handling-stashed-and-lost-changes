@@ -1,1 +1,3 @@
 Modify feature A txt
+
+Adding some changes from the branch regarding feature A
